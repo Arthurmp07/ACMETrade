@@ -23,6 +23,7 @@ public class ACMETrade {
 		//entrada = new Scanner(System.in);
 		convencao = new Convencao();
 		federacao = new Federacao();
+		//novo commit
 	}
 
 	public void executar() {
